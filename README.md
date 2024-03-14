@@ -12,7 +12,7 @@ Task Overview
 
 The SQL checkpoint consisted of several tasks, each requiring the creation of SQL queries to retrieve specific information from the database. The tasks covered topics such as:
 
-    Selecting data from single or multiple tables.
-    Filtering rows based on certain conditions.
-    Joining tables to retrieve related information.
+  Selecting data from single or multiple tables.
+  Filtering rows based on certain conditions.
+  Joining tables to retrieve related information.
   
